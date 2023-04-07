@@ -1,4 +1,4 @@
-package model.enteties;
+package model.dao.enteties;
 
 import java.io.Serializable;
 import java.util.Date;
